@@ -3,9 +3,12 @@
 Welcome to my Java learning journey! This repository documents my progress as I learn Java through hands-on exercises, assignments, and projects.
 
 ## 📚 About
-This repository contains my Java practice, exercises, assignments, and mini-projects completed while following **The Complete Java Developer Course: From Beginner to Master**.
 
-## 🗂️ Contents
+This repository contains my Java practice, exercises, assignments, mini-projects, and course projects completed while following **The Complete Java Developer Course: From Beginner to Master**.
+
+## 🗂️ Course Progress
+
+### ✅ Section 01 – Java Fundamentals
 - Hello Java
 - Variables and Data Types
 - User Input
@@ -17,8 +20,30 @@ This repository contains my Java practice, exercises, assignments, and mini-proj
 - Average of Three
 - Mad Libs Clone
 
+### ✅ Section 02 – Control Statements
+- Selection Control Statements
+- Repetition Control Statements
+- Continue and Break
+- Random Numbers
+- Divisible By Three
+- Guess The Number
+- Learning Packages Club
+- Learning Packages Club (Version 2)
+
 ## 🎯 Goal
-To build a strong foundation in Java and document my progress through projects and coding exercises.
+
+To build a strong foundation in Java by consistently practicing concepts, solving programming challenges, and developing projects while documenting my progress on GitHub.
+
+## 🚀 Progress
+
+- ✅ Section 01 Completed
+- ✅ Section 02 Completed
+- ⏳ Section 03 In Progress
 
 ## 👨‍💻 Author
+
 **Mustaqeem Mustafa**
+
+---
+
+⭐ If you find this repository helpful, feel free to star it!
