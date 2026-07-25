@@ -3,12 +3,12 @@ package section01;
 public class RelationalOperators {
     public static void main(String[] args) {
         boolean myBool = true;
-        boolean yoyrBool = false;
+        boolean yourBool = false;
         int myAge = 18;
         int yourAge = 20;
         int xAge = 25;
         System.out.println("My Bool is " + myBool);
-        System.out.println("Your  Bool is " + yoyrBool);
+        System.out.println("Your  Bool is " + yourBool);
 
         //relational operators
         boolean ageComparison = myAge > yourAge;
