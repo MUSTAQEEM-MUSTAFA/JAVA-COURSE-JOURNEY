@@ -8,7 +8,7 @@ public class ContinueAndBreak {
                 count++;
                 continue;
             }
-            System.out.println(count);
+            System.out.print(count + " ,");
             count++;
         }
     }
