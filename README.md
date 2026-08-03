@@ -30,6 +30,15 @@ This repository contains my Java practice, exercises, assignments, mini-projects
 - Learning Packages Club
 - Learning Packages Club (Version 2)
 
+### ✅ Section 03 – Arrays & ArrayLists
+- Array Example
+- Enhanced For Loop
+- ArrayList Example
+- Wrapper Class Example
+- Arrays Project
+- ArrayLists Project
+- Parallel Arrays Project
+
 ## 🎯 Goal
 
 To build a strong foundation in Java by consistently practicing concepts, solving programming challenges, and developing projects while documenting my progress on GitHub.
@@ -38,7 +47,8 @@ To build a strong foundation in Java by consistently practicing concepts, solvin
 
 - ✅ Section 01 Completed
 - ✅ Section 02 Completed
-- ⏳ Section 03 In Progress
+- ✅ Section 03 Completed
+- ⏳ Section 04 Coming Soon
 
 ## 👨‍💻 Author
 
